@@ -1,2 +1,2 @@
-# Homeopathic-remedies---Recommendation-for-travel
-App on Homeopathic remedy recommendation
+# homeopathic-guide
+App on Homeopathic remedies and recommendation for Travel
